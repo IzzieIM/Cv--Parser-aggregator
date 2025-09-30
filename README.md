@@ -120,6 +120,5 @@ print(parsed_cv)
 * Fine-tune NER model for more accurate **education & GPA linking**
 * Add support for **multilingual resumes**
 * Web API using **FastAPI/Flask**
-* Integration with databases (MongoDB/Postgres)
 
 ---
