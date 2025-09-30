@@ -1,0 +1,58 @@
+{
+    "name": "Arijeet Kumar Majumdar",
+    "phone_number": "+917405046522",
+    "email": "jeet.mazumdar@hotmail.com",
+    "designation": "Consultant",
+    "skills": "AGILE; AJAX; API; AWS; Agile; Amazon Web Services (AWS); Android; Bitbucket; C; C++; Docker; GIT; Git; GitHub; Groovy; JAVA; JSON; JUnit; Java; JavaScript; Jenkins; MACOS; Mercurial; MySQL; Platform; REST; Redis; Requirement gathering; Rest; Restful web services; SKILLS; SOAP; SOAP web services; SQL; SQL Server; Software Development; Software development; Version Control; Visual Studio; Windows; XML; XPATH; XSLT; agile; application development; communication; communication skills; customization; data migration; documentation; platform; retail; rule engine; skills; solution architecture; unit testing; user stories",
+    "nationality": "Indian",
+    "education": [
+        {
+            "institution": "Mastres in Computer Applications, Indra Gandhi Open University 2008",
+            "gpa": null
+        },
+        {
+            "institution": "Bachelor's in computer applications, Indra Gandhi Open University 2006",
+            "gpa": null
+        }
+    ],
+    "projects": [
+        "As a backend Hybris developer, I mostly worked on Albus project. Albus was"
+    ],
+    "past_companies": [],
+    "certifications": [
+        "Certified"
+    ],
+    "date_of_birth": null,
+    "location": "Checkstyle",
+    "languages": null,
+    "linkedin": null,
+    "websites": [],
+    "is_resume_probability": 50.0,
+    "redacted_text": false,
+    "objective": null,
+    "profession": "Consultant",
+    "summary": "Mr. Arijeet Kumar Majumdar is an Agile Java/JEE Hybris ECommerce Consultant. He has more than 15 years of experience of working on key, mission-critical and very high-profile Java based assignments.",
+    "publications": null,
+    "referees": [],
+    "total_experience": 15,
+    "work_experience": [
+        "A Java technologist possessing comprehensive experience in full\nJava 6, 7, 8, 11, 14 & 15\nSoftware Development Life Cycle (SDLC) using a wide range of system\nframeworks and best of breed open-source technologies.",
+        "Has more than 15 years of experience of working on key, mission-\nMaven\ncritical and very high-profile Java based assignments in teams of\nSpring Boot, Kafka\ndifferent sizes.",
+        "Possess experience in the development of high volume/high\ntransactional systems using resilient Continuous Integration (CI) and SOAP web services\nContinuous Deployment (CD) environments.",
+        "Mockito, Wiremock, Spock\n\uf095 13 years of relevant experience in Java based Commerce (SAP Hybris)\nMySQL, MS SQL\napplication development & implementation.",
+        "PERSONAL DETAILS\nTesting Frameworks and Tools: JUnit (3.8.x, 4.x), Mockito, RestAsured, Spock\nNationality: Indian\ntesting, Wiremock\nVISA Status: ILR\nStatic code analysis tools: Checkstyle, FindBugs, PMD\nBuild Tools & Continuous Integration: Maven (3.0.x), Ant (1.6.x), Docker, Jenkins\nMobile Development: Android SDK\nOperating Systems: Windows, UNIX, LINUX and MACOS\nCloud Platform: Amazon Web Services (AWS)\nPROFESSIONAL EXPERIENCE\nNewlook-CONDEV-",
+        "United Kingdom\nHybris Contractor, Sep 2021 \u2013 Nov 2022 SELF-ACQUIRED SKILLS\nAWS\nTo provide Commerce Development services for WTCommerce\u2019s New Look\nMicroservices\naccount; Worked along with the architect on designing a new SAP Hybris\nKafka\nintegration with Domain services.",
+        "Worked with the\nREACTJS\nArchitect to design and develop the integration of the checkout process on\nAndroid Development\nSAP Hybris platform from the respective domain service.",
+        "AGILE JAVA/J2EE HYBRIS ECOMMERCE CONSULTANT 2\nWorked on Stability ticket backlog, writing/testing own code committed to\nthe CI/CD process as well as taking part in the peak preparation\ndevelopment items.",
+        "Technical design of the infrastructure, deployment and integration with\nexternal systems\n\uf095 Defect management and working with the external test teams\nNewlook-Storefront - United Kingdom\nHybris Contractor, Dec 2020 \u2013 Feb 2021\nWorked as part of foundation phase to implement SAP headless Commerce\u2019s\nusing OCC REST APIs.",
+        "Worked closely with architect to design and implement\nthe agreed endpoints.",
+        "Technology Stack\nJava 11, Hybris 1905 as commerce platform, Spring, ANT, Servlet, JSP, MySQL,\nGitHub, SourceTree/Fork, RESTful Web Service, JUnits, Spock Testing, Rest\nAssured Testing\nResponsibilities:\n\uf095 Worked on OpenAPI speciation to develop the Product, CMS Pages\nand CMS Component\u2019s endpoints.\n\uf095",
+        "Worked on development of backend API to be consumed by\nupstream services.",
+        "Worked on designing the feeds generation and sending them to eBay\nSFTP server\n\uf095 Worked on Integration of Hybris orders to Ebay\n\uf095",
+        "Integrated cancellation/Refund order process with Ebay\u2019s order\n\uf095 Worked on PayPal\u2019s refund process for cancellation and refunded\norders.\n\uf095",
+        "Worked on major bugs from current development.",
+        "Albus (The White Company)\u2013 United Kingdom\nHybris Contractor, Oct 2018 \u2013 Apr 2020\nAs a backend Hybris developer, I mostly worked on Albus project.",
+        "As a senior developer, I have worked on various parts\nof development phase including checkout, data migration, rule engine,\ncontent etc.\nTechnology Stack:\nJava 1.8, Hybris 6.3.0.3 as commerce platform, Spring, ANT, Servlet, JSP, MySQL,\nGitHub, SourceTree\nResponsibilities:\n\uf095",
+        "Responsible for analysis & estimate effort required on the stories.\n\uf095 Primarily worked on new rule engine and promotion."
+    ]
+}

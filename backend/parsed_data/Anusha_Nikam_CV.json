@@ -1,0 +1,164 @@
+{
+    "name": "Anusha Kailas Nikam",
+    "phone_number": "",
+    "email": null,
+    "designation": null,
+    "skills": "API; API development; Bootstrap; C++; Data Analysis; Figma; JavaScript; Matplotlib; Python; SKILLS; SQLite; Scikit-learn; data analytics; leadership",
+    "nationality": "",
+    "education": [
+        {
+            "institution": "Indian Institute of Technology Kharagpur Female",
+            "gpa": null
+        },
+        {
+            "institution": "Examination Institute Year CGPA / %",
+            "gpa": null
+        },
+        {
+            "institution": "B.Tech IIT Kharagpur 2025 8.09",
+            "gpa": null
+        },
+        {
+            "institution": "Class XII, CBSE Swaminarayan Gyankendra, Umbergaon 2023 93.5",
+            "gpa": null
+        },
+        {
+            "institution": "Class X, CBSE St. Xavier's High School, Vapi 2021 97.6",
+            "gpa": null
+        },
+        {
+            "institution": "INTERNSHIPS AND PROJECTS",
+            "gpa": null
+        },
+        {
+            "institution": "Vibemeter (WellBee) - Delloite Problem Statement",
+            "gpa": null
+        },
+        {
+            "institution": "General Championship, IIT Kharagpur (Ranked 4th)",
+            "gpa": null
+        },
+        {
+            "institution": "Devfolio's \"Build the new Internet\" Hackathon - creative award winner",
+            "gpa": null
+        },
+        {
+            "institution": "* Designed a real-time crypto exchange web app with a seamless UI/UX.",
+            "gpa": null
+        },
+        {
+            "institution": "Book-Library",
+            "gpa": null
+        },
+        {
+            "institution": "POSITIONS OF RESPONSIBILITY",
+            "gpa": null
+        },
+        {
+            "institution": "Social and Cultural Secretary | Mother Teresa Hall of Residence Hall Council",
+            "gpa": null
+        },
+        {
+            "institution": "* Facilitated coordination between the hall of residence and the institute bodies for the smooth execution of activities.",
+            "gpa": null
+        },
+        {
+            "institution": "Governing Member | Technology Dramatics Society and Technology Filmmaking and Photography Society, Indian Institute of Technology Kharagpur.",
+            "gpa": null
+        },
+        {
+            "institution": "* Programming Languages: Python, C++, JavaScript",
+            "gpa": null
+        },
+        {
+            "institution": "* Frameworks and Libraries: Numpy, Pandas, ScikitLearn, Matplotlib, Bootstrap, Flask , React , Nodejs , Expressjs , SQLite , Figma.",
+            "gpa": null
+        },
+        {
+            "institution": "IBM Data Analysis Certificate - Coursera",
+            "gpa": null
+        },
+        {
+            "institution": "Gained hands-on experience in data analytics using NumPy, Pandas, Matplotlib, and Scikit-learn",
+            "gpa": null
+        },
+        {
+            "institution": "FullStack Web Development Fellowship - PeerHub",
+            "gpa": null
+        },
+        {
+            "institution": "Followed an end-to-end course to gain knowledge and experience in MERN stack projects.",
+            "gpa": null
+        },
+        {
+            "institution": "Build dynamic single-page applications with React Hooks and Router.",
+            "gpa": null
+        },
+        {
+            "institution": "DSA A-Z Bootcamp - Striver's SDE Sheet",
+            "gpa": null
+        },
+        {
+            "institution": "Mastered Data Structures and Algorithms with real-world problems on arrays, linked lists, and DP.",
+            "gpa": null
+        },
+        {
+            "institution": "UI/UX with Figma - Udemy - BringYourOwnLaptop",
+            "gpa": null
+        },
+        {
+            "institution": "Designed responsive interfaces and prototypes for mobile/web apps using Figma's design system",
+            "gpa": null
+        },
+        {
+            "institution": "* Winner of Devfolio's Build the New Internet Hackathon.",
+            "gpa": null
+        },
+        {
+            "institution": "* Active member of the National Cultural Appreciation group in Fine Arts (NCA).",
+            "gpa": null
+        },
+        {
+            "institution": "* Secured First Position nukkad natak competion in IIT Kharagpur's Spring Fest in 2024.",
+            "gpa": null
+        }
+    ],
+    "projects": [
+        "* The project won the award because of its innovative design and user"
+    ],
+    "past_companies": [],
+    "certifications": [
+        "Certificate",
+        "Course",
+        "course"
+    ],
+    "date_of_birth": "03/06/2005",
+    "location": "Flask",
+    "languages": null,
+    "linkedin": null,
+    "websites": [
+        "https://github.com/IzzieIM/Build-the-New-Internet",
+        "https://github.com/IzzieIM/news-aggregator",
+        "https://github.com/IzzieIM/Book-Library",
+        "https://github.com/IzzieIM/OpenSoft-VibemeterApp"
+    ],
+    "is_resume_probability": 75.0,
+    "redacted_text": false,
+    "objective": null,
+    "profession": null,
+    "summary": "Anusha Kailas Nikam is a graduate of Indian Institute of Technology Kharagpur. She developed a mood tracking website to help employers access and predict the reasons for unhappiness of their employees. She also designed a real-time crypto exchange web app with a seamless UI/UX.",
+    "publications": null,
+    "referees": [],
+    "total_experience": null,
+    "work_experience": [
+        "%\nB.Tech IIT Kharagpur 2025 8.09\nClass XII, CBSE Swaminarayan Gyankendra, Umbergaon 2023 93.5\nClass X, CBSE St. Xavier's High School, Vapi 2021 97.6\nINTERNSHIPS AND PROJECTS\nVibemeter (WellBee) - Delloite Problem Statement\nGeneral Championship, IIT Kharagpur (Ranked 4th)\n\u25cb Developed a mood tracking website to help employers access and predict the reasons for unhappiness of their employees.",
+        "\u25cb Worked on backend API development and frontend integration to ensure a smooth user experience.",
+        "\u25cb Worked with the team to develop an AI chatbot that will help the employees share their real-time issues.",
+        "\u25cb The project won the award because of its innovative design and user-friendly experience\n\u25cb Link to repository is https://github.com/IzzieIM/Build-the-New-Internet\nNews Aggregator\n\u25cb Developed a real-time news aggregator using NewsAPI to fetch and display the latest news.",
+        "\u25cb Integrated features like night-mode, favourite zone, and infinite scroll for enhanced user experience.",
+        "\u25cb Link to repository is https://github.com/IzzieIM/news-aggregator\nBook-Library\n\u25cb Developed a full-stack web application that helps user manage their book library based on name, author, genre, and ratings\n\u25cb Used SQLite to store the user database efficiently\n\u25cb Integrated Gamified UI for seamless user experience.",
+        "\u25cb Link to repository is https://github.com/IzzieIM/Book-Library\nPOSITIONS OF RESPONSIBILITY\nSocial and Cultural Secretary",
+        "COURSEWORK INFORMATION\nIBM Data Analysis Certificate \u2013 Coursera\nGained hands-on experience in data analytics using NumPy, Pandas, Matplotlib, and Scikit-learn\nFullStack Web Development Fellowship - PeerHub\nFollowed an end-to-end course to gain knowledge and experience in MERN stack projects.",
+        "\u25cb Secured First Position nukkad natak competion in IIT Kharagpur's Spring Fest in 2024."
+    ]
+}

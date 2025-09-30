@@ -1,0 +1,61 @@
+{
+    "name": "Jon Malone",
+    "phone_number": "",
+    "email": null,
+    "designation": "architect",
+    "skills": "AWS; Change management; Documentation; IT Service Management; Microsoft SQL Server; Platform; Prince2; SQL; SQL Server; Sharepoint; Skills; documentation",
+    "nationality": "",
+    "education": [
+        {
+            "institution": "Wolverhampton College",
+            "gpa": null
+        },
+        {
+            "institution": "Firebrand, UK",
+            "gpa": null
+        },
+        {
+            "institution": "Exam 764: Administering a Microsoft SQL Database",
+            "gpa": null
+        },
+        {
+            "institution": "Thomas Jones Secondary School",
+            "gpa": null
+        },
+        {
+            "institution": "Rawlins Secondary School",
+            "gpa": null
+        }
+    ],
+    "projects": [
+        "Experienced, informed and certified Database Administrator, Project",
+        "Senior SQL DBA supporting Test, Dev, UAT and Production. Project and",
+        "Supporting multiple clients remotely in BAU support and Project Consultancy"
+    ],
+    "past_companies": [
+        "Malone Ltd",
+        "New Technologies."
+    ],
+    "certifications": [
+        "Certificate",
+        "Certified",
+        "certified"
+    ],
+    "date_of_birth": null,
+    "location": "London Area",
+    "languages": null,
+    "linkedin": null,
+    "websites": [],
+    "is_resume_probability": 75.0,
+    "redacted_text": false,
+    "objective": null,
+    "profession": "Administrator",
+    "summary": "Jon Malone is an AWS certified Solutions Architect who enjoys learning about new technologies. He is a Cancer Research UK Consultant and a Microsoft SQL Server Consultant. He has worked for Microsoft for 16 years.",
+    "publications": null,
+    "referees": [],
+    "total_experience": null,
+    "work_experience": [
+        "London Area, United Kingdom\nTop Skills\nSummary\nSQL Server\nMicrosoft SQL Server\nExperienced, informed and certified Database Administrator, Project\nDatabases\nManager and AWS certified Solutions Architect who enjoys learning\nnew Technologies.",
+        "Certifications\nExam 764: Administering a Microsoft\nSpecialties:\nSQL Database Infrastructure\nAWS Architect Associate\nPrince2\nITIL Foundation Certificate in IT Service Management\nAWS Certified Solutions Architect \u2013\nAssociate Prince2\nITIL Foundation Certificate in IT MCITP 2008-2016\nService Management\nMCDBA 2008\nExperience\nMalone Ltd\nOwner\nJune 2006 -"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Yogesh Gangurde",
+    "phone_number": "+919552605855",
+    "email": null,
+    "designation": "Developer",
+    "skills": "AJAX; Ajax; Communication; Database Management; GIT; Git; JSON; JavaScript; Jira; MySQL; PHP; Redis; SQL; Skills; Technical Support; database design; jQuery; payroll processing; platform; retail; sales; skills",
+    "nationality": "",
+    "education": [
+        {
+            "institution": "Master of Computer Applications (MCA): G.S. MOZE College OF ENGG PUNE -",
+            "gpa": null
+        },
+        {
+            "institution": "Pune University,",
+            "gpa": null
+        }
+    ],
+    "projects": [
+        "gathering project information",
+        "Preparing project plan according to",
+        "according to project plan",
+        "accommodate specific user",
+        "can buy or rent RV. The main purpose of this project is to solve the",
+        "from this project we can provide facility to search resort park, buy RV,",
+        "employees. In this project, we collect information on required",
+        "for further use. Basically, this is the project for IT Recruitment and"
+    ],
+    "past_companies": [
+        "Testq Technologies Pvt Ltd",
+        "Testq Technologies Pvt. Ltd, Pune 9552605855"
+    ],
+    "certifications": null,
+    "date_of_birth": null,
+    "location": "Laravel",
+    "languages": null,
+    "linkedin": null,
+    "websites": [],
+    "is_resume_probability": 100,
+    "redacted_text": false,
+    "objective": null,
+    "profession": "Developer",
+    "summary": "Yogesh Gangurde has 6+ years of experience in this field. He can multi-task across multiple functions and ail.roles to meet deadlines and organizational goals. His skills include: transitioning legacy presentations to easy-to-use versions.",
+    "publications": null,
+    "referees": [],
+    "total_experience": 6,
+    "work_experience": [
+        "Yogesh Gangurde\nWeb Developer\nI have excellent experience in Website Development.",
+        "I have 6+ years of experience in this field.",
+        "Experienced in benefits administration,\npayroll processing, and ensuring compliance with relevant\nregulations\nUYR Doctors System\nOrganization: TESTQ Technologies Pvt Ltd\nTools and Technique: Laravel 8, Vuejs MySQL, FTP, GIT."
+    ]
+}

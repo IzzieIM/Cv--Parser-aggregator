@@ -1,0 +1,122 @@
+{
+    "name": "Michael Mateta\nEmail",
+    "phone_number": "+917748248648",
+    "email": "michaeljeibc@outlook.com",
+    "designation": "Architect",
+    "skills": "Azure DevOps; Azure Security; Change Management; Cloud Architecture; Cloud computing; Customer Service; Data Analytics; Data warehousing; Docker; ETL; ETL processes; JSON; Kubernetes; Microsoft Azure; Microsoft Azure Security; Microsoft SQL Server; Power BI; Python; Risk Management; SKILLS; SQL; SQL Server; SQL Server, SSIS; Sales; Scrum; Skills; Stakeholder Management; T-SQL; Unit Testing; Visual Studio; communication; leadership; platform; problem-solving; skills",
+    "nationality": "",
+    "education": [
+        {
+            "institution": "EDUCATION AND SYSTEMS EXPERTISE",
+            "gpa": null
+        },
+        {
+            "institution": "Microsoft Data Analyst Associate Certified - Microsoft 2022",
+            "gpa": null
+        },
+        {
+            "institution": "Microsoft Azure AI Fundamentals Certified - Microsoft 2022",
+            "gpa": null
+        },
+        {
+            "institution": "Microsoft Azure Data Engineering Certified - Microsoft 2021",
+            "gpa": null
+        },
+        {
+            "institution": "Microsoft Azure Security, Compliance and Identity Fundamentals Certified - Microsoft 2021",
+            "gpa": null
+        },
+        {
+            "institution": "Microsoft Azure Data Fundamentals Certified - Microsoft 2021",
+            "gpa": null
+        },
+        {
+            "institution": "Microsoft Azure Fundamentals Certified - Microsoft 2021",
+            "gpa": null
+        },
+        {
+            "institution": "Professional Data Analytics - Shaw Skills Academy 2020",
+            "gpa": null
+        },
+        {
+            "institution": "Project Management - Shaw Skills Academy 2019",
+            "gpa": null
+        },
+        {
+            "institution": "Working Better Together - Dale Carnegie & Associates 2015",
+            "gpa": null
+        },
+        {
+            "institution": "Microsoft T-SQL (London) - Implementing a Microsoft SQL Server 2012 Database 2012",
+            "gpa": null
+        },
+        {
+            "institution": "Computer Systems Engineering BEng - Cardiff University Wales UK 2008",
+            "gpa": null
+        },
+        {
+            "institution": "Professional Skills - Microsoft technology stack, implementation of client/server, database applications and",
+            "gpa": null
+        },
+        {
+            "institution": "reporting models using Microsoft SQL Server, SSIS, SSRS, ETL, Azure DevOps, Azure Data Factory, Azure Databricks,",
+            "gpa": null
+        },
+        {
+            "institution": "Python, Spark, Delta Lake and Visual Studio. Test-First Unit Testing Database and SSIS Package Development. I am an",
+            "gpa": null
+        },
+        {
+            "institution": "expert in Microsoft SQL Server Agent designing and creating system jobs the transform business requirements into",
+            "gpa": null
+        },
+        {
+            "institution": "fully functioning technical data solutions.",
+            "gpa": null
+        },
+        {
+            "institution": "Training in -Azure SQL Administrator, Azure Administrator and Azure DevOps Certification, Kubernetes, Docker,",
+            "gpa": null
+        },
+        {
+            "institution": "Solutions Architecture and AI Engineering all for 2023 Certifications",
+            "gpa": null
+        }
+    ],
+    "projects": [
+        "* Creative and innovative approach * Project Delivery * Time and resource management",
+        "* Building Data Infrastructure for Carbon Emission reductions project and the Carbon BIM project for Costain",
+        "project",
+        "Project Management"
+    ],
+    "past_companies": [
+        "Digital Solutions",
+        "Fully Functioning Technical Data Solutions."
+    ],
+    "certifications": [
+        "training",
+        "Training",
+        "Certified"
+    ],
+    "date_of_birth": null,
+    "location": "Email: michaeljeibc@outlook.com | Mobile: 07748248648 |Remote, Leeds & Wakefield",
+    "languages": null,
+    "linkedin": null,
+    "websites": [],
+    "is_resume_probability": 100,
+    "redacted_text": false,
+    "objective": null,
+    "profession": "Developer",
+    "summary": "Michael Mateta is a Digital Solutions Architect with Microsoft Certifications in Data Engineering and Power BI Analysis. A strategist, who understands business needs and delivers `full-cycle' projects. Thrives at the interface between the business and technical world.",
+    "publications": null,
+    "referees": [],
+    "total_experience": null,
+    "work_experience": [
+        "I have worked as\na Senior SQL BI Developer for 10 years then became a Data Engineer in Azure Cloud solutions before now being a\nSolutions Architect.",
+        "Technically experienced in current and\nemerging technologies and focussed on today`s and tomorrow`s technical priorities, including in Cloud Architecture,\nDatabase Development, Data Modelling Design, Test Driven Development and Analysis, Azure Databricks, Data\nFactory, DevOps and SQL Server.\nKEY SKILLS\n\u2022 Analysis and evaluation \u2022 Flexible and Adaptable Approach \u2022 Sales and business development\n\u2022 Analytical Thinker \u2022 Influencing and motivating \u2022 Stakeholder Management\n\u2022 Building/leading effective teams \u2022 IT and technical skills \u2022 Operational Planning\n\u2022 Change Management \u2022 Management and leadership \u2022 Strategic partnerships\n\u2022 Client relationship management \u2022 Managing budgets and financials \u2022 Strong problem-solving ability\n\u2022 Commercial and business acumen \u2022 Market research and analysis \u2022 Sustainable growth management\n\u2022",
+        "Relationship Management \u2022 Training / Mentoring / Coaching\n\u2022 Customer Service \u2022 Risk Management and Mitigation \u2022 Training and development\nPROFESSIONAL EXPERIENCE\nDigital Solutions Architect \u2013 Ipsos Karian and Box (Contract) 2022 \u2013 Current\n\u2022 An Azure Data Solutions Architect responsible for systems architecture within the Digital Solutions team,\ndesigning and developing strong robust systems for client survey projects and the framework lookup.\n\u2022 Working collaboratively with team of Managing and Client Directors, Data Engineers and Developers to\nprovide system solutions based on gathered and fully thought through business requirements.",
+        "\u2022 Experience in Data Engineering and Architecture.",
+        "Troubleshooting failing Stored procedures, and long running queries made by other developers and\ncontractors who worked for Metro Bank, replacing the code with better performing indexed views and\nrewriting or fixing broken stored procedures to make them simpler and re-usable.",
+        "Implementing a Microsoft SQL Server 2012 Database 2012\nTSQL and Programming skills \u2013 Gained extensive hands-on experience in scripting T-SQL in constructing triggers,\ntables, user functions, views, indexes, user profiles, relational database models, data dictionaries, and data integrity,\noptimized indexes, and statistics in relation to reporting model."
+    ]
+}

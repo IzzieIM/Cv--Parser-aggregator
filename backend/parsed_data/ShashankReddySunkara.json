@@ -1,0 +1,62 @@
+{
+    "name": "Shashank Reddy",
+    "phone_number": "+4917675873535",
+    "email": "shashankreddy.sunkara0504@gmail.com",
+    "designation": "DevOps Engineer",
+    "skills": "AWS; Ansible; AppDynamics; Bash; Bitbucket; Docker; Docker Swarm; Dynatrace; ElasticSearch; Github; Gitlab; Grafana; Information Security; Java; Jenkins; Jira; Kubernetes; LDAP; Matomo; Nginx; OpenShift; Openshift; PostgreSQL; Python; Redis; Rest; SKILLS; SonarQube; Terraform; Ubuntu; VMware; Zabbix; agile; ansible; application development; cloud integration; cloud migration; firewalls; script",
+    "nationality": "",
+    "education": [
+        {
+            "institution": "EDUCATION",
+            "gpa": null
+        },
+        {
+            "institution": "08/2016 - 12/2017 Masters in Information Systems",
+            "gpa": null
+        },
+        {
+            "institution": "Northwest Missouri State University, Maryville, USA",
+            "gpa": null
+        },
+        {
+            "institution": "English (C2) | Telugu (Mother tongue) | Hindi (C2) | Deutsch (A1, currently learning)",
+            "gpa": null
+        }
+    ],
+    "projects": [
+        "AWS (5 years of project experience) | Azure (1) | GCP (1) | OVH (1) | Cloud Foundry (2) | Openstack (2) |",
+        "* Also successfully led a cloud migration project from Azure to AWS by using",
+        "Project"
+    ],
+    "past_companies": [
+        "Technologies Used"
+    ],
+    "certifications": null,
+    "date_of_birth": null,
+    "location": "US",
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "linkedin": null,
+    "websites": [],
+    "is_resume_probability": 100,
+    "redacted_text": false,
+    "objective": null,
+    "profession": "Engineer",
+    "summary": "Shashank Reddy Sunkara is a mid-Senior DevOps Engineer strong with AWS, Jenkins, Docker & Grafana and work experience in the US. Shashank is a Blue Card holder, eligible to work in Germany. Notice: 6 weeks.",
+    "publications": null,
+    "referees": [],
+    "total_experience": null,
+    "work_experience": [
+        "Shashank Reddy Sunkara\nMid-Senior DevOps Engineer strong with AWS, Jenkins,\nDocker & Grafana and work experience in the US\nEppendorfer Weg 270a | 20251 Hamburg\nshashankreddy.sunkara0504@gmail.com|+49 176 758735 35\nIndian citizen | Born 05/04/1994 |LinkedIn|Github|Blog\nI am a Blue Card holder, eligible to work in Germany.",
+        "TECHNICAL SKILLS\nAWS (5 years of project experience)",
+        "Github Actions (2) | GitLab(2)|Docker\n(Compose & Swarm) (4) | Kubernetes (1) | Ansible (5) | Terraform / IasC (1) | Microservices (4)|ELK(4)|\nGrafana (4) | Zabbix (4) | AppDynamics(3)|Sentry(5)|Rediscluster(4)|Kafka(4)|SonarQube(4)|Java\n(3)|Python(2)|BashScripting(4)|Databases(PostgreSQL/RDS)(4)|Nginx(5)|SysAdmin(4)|Network\n(1) | VMware (1) | CouchDB (1) | Uptrends (1) | Icinga (1) | Matomo (1) | pSense (1)\nWORK EXPERIENCE\n08/2022 \u2013 today DevOps Engineer\nFFW, Hamburg, Germany\nProjects: FFW is a software agency that provides application development,\ninfrastructure provision, and support to multiple larger clients in Germany.",
+        "\u25cf Worked on IasC via Terraform, CasC via Ansible, JCasC via Jenkins, and shell\nscripts.",
+        "Worked and lived in Virginia where I created 20+ ansible playbooks for\nmultiple application environments at Freddie Mac, which provides Federal home\nloan mortgages to millions of US citizens.",
+        "\u25cf Worked on 10+ IBM Websphere Application Servers and Oracle databases.",
+        "Worked on Openshift with underlying Kubernetes engine to deploy 200+ apps\nvia Jenkins and resolved configMap issues on failed deployments.",
+        "WHQ, Moline, USA\nProject: Lived and worked in Iowa for vehicle and construction manufacturing\nmultinational John Deere on cloud integration support projects.",
+        "\u25cf Worked on single Monolithic and 30+ Microservices."
+    ]
+}
