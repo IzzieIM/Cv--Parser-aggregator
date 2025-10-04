@@ -34,7 +34,7 @@ An NLP-powered CV/Resume parser that extracts structured information such as **n
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/cv-parser.git
+git clone https://github.com/IzzieIM/cv--Parser-aggregator.git
 cd cv-parser
 pip install -r requirements.txt
 ```
